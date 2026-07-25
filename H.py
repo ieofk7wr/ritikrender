@@ -46,8 +46,8 @@ def health():
 
 # Environment variables with YOUR TOKEN
 TOKEN = os.environ.get('TELEGRAM_BOT_TOKEN', '8487271564:AAFxXGmmIl73iflDp8EPuNn-5y-AtoH4NhQ')
-OWNER_ID = int(os.environ.get('OWNER_ID', 7964730489))
-ADMIN_ID = int(os.environ.get('ADMIN_ID', 7964730489))
+OWNER_ID = int(os.environ.get('OWNER_ID', 8705665614))
+ADMIN_ID = int(os.environ.get('ADMIN_ID', 8477195695))
 YOUR_USERNAME = os.environ.get('YOUR_USERNAME', '@Xyzr4')
 UPDATE_CHANNEL = os.environ.get('UPDATE_CHANNEL', 'https://t.me/Xyzr4')
 
